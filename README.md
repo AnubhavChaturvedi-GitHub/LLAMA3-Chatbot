@@ -2,7 +2,8 @@
 
 Welcome to the Net Hi-Tech Chatbot project! This chatbot is powered by Llama3 and offers a dynamic, interactive, and sci-fi inspired user experience.
 
-
+![Screenshort]()
+![Screenshort]()
 
 ## Features
 
